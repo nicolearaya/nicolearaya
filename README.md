@@ -2,4 +2,5 @@
 - 👀 I’m interested in human-computer interaction and inclusive design
 - 🌱 I’m currently learning product management and design at Harvard, and will be pursuing a master's in HCI after graduation!
 - 💞️ I’m looking to collaborate on projects that push the boundary of information access and equity
+- 🏃🏽‍♀️Check out my recent data visualization project on [Olympics Accessibility](https://nicolearaya.github.io/Olympics/)
 - 📫 How to reach me: email me at nicolearaya0924@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/nicole-araya-76847213b/)!
