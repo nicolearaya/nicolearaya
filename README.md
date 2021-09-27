@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolearaya
 - 👀 I’m interested in human-computer interaction and inclusive design
-- 🌱 I’m graduated from Harvard College, and am currently pursuing a master's in HCI at Carnegie Mellon University, School of Computer Science!
+- 🌱 I recently graduated from Harvard College Class of 2021, and am currently pursuing a master's in HCI at Carnegie Mellon University, School of Computer Science!
 - 💞️ I’m looking to collaborate on projects that push the boundary of information access and equity
 - 🏃🏽‍♀️Check out my recent data visualization project on [Olympics Accessibility](https://nicolearaya.github.io/Olympics/)
 - 📫 How to reach me: email me at nicolearaya0924@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/nicole-araya-76847213b/)!
